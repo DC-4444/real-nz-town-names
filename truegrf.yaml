@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f2ee4e70
 license: CC0-1.0
+name: real-nz-town-names
 type: townname
+url: https://github.com/DC-4444/real-nz-town-names
 version: 6
